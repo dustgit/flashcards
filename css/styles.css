@@ -1,0 +1,20 @@
+.panel {
+
+}
+.flashcard {
+  margin-top:20px;
+  height:300px;
+}
+.word-side {
+  text-align:center;
+  font-weight:bold;
+  font-size:1.7em;
+  padding-top:110px;
+}
+.definition-side {
+  padding-left:30px;
+  text-align:left;
+  /* font-weight:bold; */
+  font-size:1.2em;
+  padding-top:60px;
+}
